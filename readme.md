@@ -1,4 +1,4 @@
-# VoiceLink Pro 1.1
+# VoiceLink Pro 1.1 Chrome Extension
 ### User Manual & Operator's Guide
 
 > *The world's first softphone-camouflaged productivity simulator.*
