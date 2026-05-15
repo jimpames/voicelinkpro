@@ -54,7 +54,10 @@ Your VoiceLink Pro 1.1 installation ships with the following carefully curated p
 ## Quick Start Guide
 
 ### Step 1 — Installation
-Open `chrome://extensions`, enable **Developer Mode**, and click **Load Unpacked**. Select the `boss-panic-button` folder. Pin VoiceLink Pro to your toolbar so deployment is always one click away.
+
+unzip the file somewhere - desktop, downloads
+
+Open `chrome://extensions`, enable **Developer Mode**, and click **Load Unpacked**. Select the `voicelinkpro` folder. Pin VoiceLink Pro to your toolbar so deployment is always one click away.
 
 ### Step 2 — Standby
 Throughout the workday, leave VoiceLink Pro idle in your toolbar. The icon is unremarkable. Nobody will ask about it. If they do, say "it's a softphone for our European team." End of conversation.
