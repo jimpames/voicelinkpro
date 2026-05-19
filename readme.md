@@ -10,6 +10,7 @@
 ---
 <img width="1761" height="920" alt="image" src="https://github.com/user-attachments/assets/5e19836e-af4b-4149-8b17-40b93608869e" />
 
+<img width="1104" height="577" alt="image" src="https://github.com/user-attachments/assets/a1205b52-cb8f-442b-a671-77f27bc3f187" />
 
 ## A Letter From the Manufacturer
 
