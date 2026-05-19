@@ -8,6 +8,8 @@
 > <sub>\* *not guaranteed*</sub>
 
 ---
+<img width="1761" height="920" alt="image" src="https://github.com/user-attachments/assets/5e19836e-af4b-4149-8b17-40b93608869e" />
+
 
 ## A Letter From the Manufacturer
 
